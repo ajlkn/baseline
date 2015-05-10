@@ -1,6 +1,6 @@
 # Baseline
 
-Baseline is a simple boilerplate for building new projects on [Skel](http://skel.io). Features include:
+Baseline is a simple boilerplate for building new projects on [Skel](http://github.com/n33/skel). Features include:
 
 - Clear and concise HTML5/CSS3 code.
 - Fully responsive.
@@ -13,7 +13,7 @@ Baseline is a simple boilerplate for building new projects on [Skel](http://skel
 	- Handy utility classes (like `container`).
 	- Breakpoint events (eg. `skel.on("+small", function() { /* do something when the "small" breakpoint becomes active */ });`).
 
-_Note: This version of Baseline is built on [Skel 3](http://github.com/n33/skel3) (currently in active development)._
+_Note: This version of Baseline is built on [Skel 3](http://github.com/n33/skel) (currently in active development)._
 
 
 ## File Structure
