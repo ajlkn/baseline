@@ -1,0 +1,9 @@
+{
+	"name": "baseline",
+	"version": "3.0.0-dev",
+	"description": "A simple boilerplate for new Skel projects.",
+	"keywords": [ "boilerplate", "template", "skel", "skeljs", "responsive" ],
+	"homepage": "http://skel.io",
+	"license": "MIT",
+	"ignore": [ ]
+}
