@@ -36,7 +36,7 @@ File                        | Description
 `    base/*`                | Base styles
 `    components/*`          | Reusable components (box, button, form, etc.)
 `    layout/*`              | Primary layout components (header, footer, etc.)
-`    lib/`                  | Helper libraries
+`    libs/`                 | Helper libraries
 `      _skel.scss`          | Skel.scss (Sass framework)
 `      _vars.scss`          | Variables
 `      _functions.scss`     | Functions

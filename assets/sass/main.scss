@@ -1,11 +1,10 @@
-@import 'lib/vars';
-@import 'lib/functions';
-@import 'lib/mixins';
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/skel';
 @import 'font-awesome.min.css';
 
 /* skel-baseline v3.0.0-dev | (c) n33 | skel.io | MIT licensed */
-
-	@import 'lib/skel';
 
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
