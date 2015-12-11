@@ -180,7 +180,7 @@
 		}
 
 		.container {
-			width: 90%;
+			width: 90% !important;
 		}
 
 	}
@@ -206,7 +206,7 @@
 		}
 
 		.container {
-			width: 90%;
+			width: 90% !important;
 		}
 
 	}
