@@ -1584,7 +1584,7 @@
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: normal;
-		line-height: 1.65em;
+		line-height: 1.65;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1652,7 +1652,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #555;
 		font-weight: bold;
-		line-height: 1em;
+		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
 
@@ -1663,27 +1663,22 @@
 
 	h2 {
 		font-size: 1.75em;
-		line-height: 1.5em;
 	}
 
 	h3 {
 		font-size: 1.35em;
-		line-height: 1.5em;
 	}
 
 	h4 {
 		font-size: 1.1em;
-		line-height: 1.5em;
 	}
 
 	h5 {
 		font-size: 0.9em;
-		line-height: 1.5em;
 	}
 
 	h6 {
 		font-size: 0.7em;
-		line-height: 1.5em;
 	}
 
 	sub {
@@ -1724,7 +1719,7 @@
 
 		pre code {
 			display: block;
-			line-height: 1.75em;
+			line-height: 1.75;
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
@@ -1766,13 +1761,11 @@
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -1em;
-		line-height: 1.5em;
 	}
 
 	header h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.8em;
-		line-height: 1.5em;
 	}
 
 	header h4 + p,
@@ -1780,7 +1773,6 @@
 	header h6 + p {
 		font-size: 0.9em;
 		margin-top: -0.6em;
-		line-height: 1.5em;
 	}
 
 /* Form */

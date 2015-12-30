@@ -7,7 +7,7 @@
 		font-family: _font(family);
 		font-size: 13pt;
 		font-weight: _font(weight);
-		line-height: 1.65em;
+		line-height: 1.65;
 
 		@include breakpoint(xlarge) {
 			font-size: 11pt;
@@ -55,7 +55,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
-		line-height: 1em;
+		line-height: 1.5;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 
 		a {
@@ -66,27 +66,22 @@
 
 	h2 {
 		font-size: 1.75em;
-		line-height: 1.5em;
 	}
 
 	h3 {
 		font-size: 1.35em;
-		line-height: 1.5em;
 	}
 
 	h4 {
 		font-size: 1.1em;
-		line-height: 1.5em;
 	}
 
 	h5 {
 		font-size: 0.9em;
-		line-height: 1.5em;
 	}
 
 	h6 {
 		font-size: 0.7em;
-		line-height: 1.5em;
 	}
 
 	sub {
@@ -126,7 +121,7 @@
 
 		code {
 			display: block;
-			line-height: 1.75em;
+			line-height: 1.75;
 			padding: 1em 1.5em;
 			overflow-x: auto;
 		}
