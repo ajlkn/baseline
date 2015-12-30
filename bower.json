@@ -1,6 +1,6 @@
 {
 	"name": "baseline",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "A simple boilerplate for new Skel projects.",
 	"keywords": [ "boilerplate", "template", "skel", "skeljs", "responsive" ],
 	"homepage": "http://skel.io",
